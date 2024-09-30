@@ -1,5 +1,5 @@
 # Computer-Graphics-Projects
-Welcome to the Computer Graphics Projects repository, which contains four projects that explore various aspects of computer graphics, image manipulation, and animation. Each project presents unique challenges and features, allowing me to apply concepts discussed in the lectures while also tackling more complex tasks. This repository serves as a record storing what my team and I have learnt and done in HKUST COMP4411: Computer Graphics. 
+Welcome to the Computer Graphics Projects repository, which contains four projects that explore various aspects of computer graphics, image manipulation, and animation. Each project presents unique challenges and features, allowing me to apply concepts discussed in the lectures while also tackling more complex tasks. This repository serves as a record storing what my team and I have learnt and done using Visual Studio in HKUST COMP4411: Computer Graphics. 
 
 ## Project Structure
 Each project has separate requirements and includes advanced features, often referred to as "bells and whistles," which typically involve more intricate coding challenges.
