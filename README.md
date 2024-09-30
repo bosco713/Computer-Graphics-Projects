@@ -1,4 +1,16 @@
 # Computer-Graphics-Projects
+- COMP4411 Projects
+
+## Table of Content
+- [Overview](#overview)
+- [Project Structure](#project-structure)
+- [Project 1: Impressionist](#project-1:-impressionist)
+- [Project 2: Modeler](#project-2:-modeler)
+- [Project 3: Trace](#project-3:-trace)
+- [Project 4: Animator](#project-4:-animator)
+- [Authors](#authors)
+
+## Overview
 Welcome to the Computer Graphics Projects repository, which contains four projects that explore various aspects of computer graphics, image manipulation, and animation. Each project presents unique challenges and features, allowing me to apply concepts discussed in the lectures while also tackling more complex tasks. This repository serves as a record storing what my team and I have learnt and done using Visual Studio in HKUST COMP4411: Computer Graphics. 
 
 ## Project Structure
@@ -28,3 +40,7 @@ Built on the same architecture as the Modeler, this project allows us to reuse y
 
 ### Objective:
 Extend the spline-based animation system to support multiple curve types and implement a particle system simulation engine. After developing a robust system, We created compelling animations using our program.
+
+## Authors
+- Yuen Man Him, Bosco @[bosco713](https://github.com/bosco713)
+- Tsang Hing Ki, Jimmy @[JimmyTsang1973](https://github.com/JimmyTsang1973)
